@@ -1,0 +1,57 @@
+/* Write your CSS here */
+
+.product-container {
+  margin: 100px;
+  display: flex;
+}
+.product-details-container {
+  display: flex;
+}
+
+.product {
+  padding: 10px;
+}
+
+.product-details-container {
+  margin: 10px;
+}
+
+.product-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 8px;
+}
+
+.rating-container {
+  height: 40px;
+  width: 60px;
+  padding: 10px;
+}
+
+.review-container {
+  display: flex;
+  padding-left: 30px;
+}
+
+.quantity-container {
+  display: flex;
+}
+
+.btn-icon {
+  height: 10px;
+  width: 10px;
+  background-color: transparent;
+}
+
+.similar-products-list {
+  display: flex;
+}
+
+.cart-btn {
+  background-color: #3b82f6;
+  border-style: none;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 2px;
+  color: #ffffff;
+}
